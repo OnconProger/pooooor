@@ -1,0 +1,25 @@
+img{
+    opacity: 0;
+    width: 1000px;
+}
+.active{
+    opacity: 1;
+}
+body{
+    display: flex;
+}
+.button{
+    width: 700px;
+    height: 300px;
+    font-size: 50px;
+    color: #fff;
+    background: rgb(31, 28, 28);
+    border: 3px solid green;
+}
+
+.swal-modal{
+    width: 60% !important;
+    height: 900px !important;
+    margin: 0 auto;
+    text-align: center;
+}
